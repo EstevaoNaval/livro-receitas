@@ -3,5 +3,6 @@
 Livro de receitas pessoais do Estevão Naval. :wave:
 
 - Strogonoff de frango
+- Patê de frango
 
 
